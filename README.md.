@@ -1,0 +1,28 @@
+Insurance Claims Analysis Dashboard
+
+Project Overview
+
+An interactive Power BI dashboard designed to analyze insurance claims, claim amounts, and fraud patterns.
+
+Tools Used
+
+- Microsoft Power BI
+- Data visualization
+- Interactive slicers and filters
+
+Key Features
+
+- Total claims and claim amount KPIs
+- Monthly claims analysis
+- Fraud and non-fraud claim distribution
+- Analysis by policy type and customer demographics
+- Interactive filters
+- Business insights and conclusions
+
+Objective
+
+To explore insurance claims data, identify patterns, and present insights through interactive visualizations.
+
+How to View
+
+Download the ".pbix" file from this repository and open it using Microsoft Power BI Desktop.
